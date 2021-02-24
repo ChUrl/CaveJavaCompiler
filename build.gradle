@@ -7,7 +7,7 @@ plugins {
 
 group 'de.churl'
 version '1.0'
-sourceCompatibility = '14'
+sourceCompatibility = '15'
 mainClassName = 'StupsCompiler'
 
 jacocoTestReport {
